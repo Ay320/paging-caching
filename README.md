@@ -32,3 +32,10 @@ The results of the methods will be stored in an object of the class COMP108Pagin
 ### 3. `COMP108PagingOutput.java`
 - **Description**: Contains the output formatting and reporting functions, such as printing the cache state after each request and eviction, and providing a summary of the results.
 
+## Run
+ Run the COMP108PagingOutput.java program and provide the following inputs:
+- The size of the cache (between 1 and 10 inclusively)
+- Initial content of the cache (all positive integers)
+- The number of requests in the request sequence (between 1 and 100 inclusively)
+- The request sequence (all positive integers)
+
